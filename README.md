@@ -6,7 +6,7 @@ I'm just getting started on GitHub, and I'm currently learning and exploring how
 - 📍 Working in a **managerial position** at a **media company**
 - 🚀 Curious about **ad technologies** and how they shape digital publishing
 - 📚 Always learning — especially about how technology supports media and advertising
-- 🎯 Working with ad servers like **Adform** and currently **exploring Google Ad Manager (GAM)**
+- 🎯 Working with ad servers like **Adform** and currently **Google Ad Manager (GAM)**
 
 ## 🎯 Current Goals
 - Understand how to use GitHub for managing documentation and technical collaboration
