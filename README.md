@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hi there, I'm indrek 
+## 👋 Hi there, I'm indrek 👋
 
 I'm just getting started on GitHub, and I'm currently learning and exploring how to use it to manage and share projects.
 
